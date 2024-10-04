@@ -1,0 +1,12 @@
+.btn-style {
+    background: rgb(5, 49, 120);
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    cursor: pointer;
+    transition: background-color 0.3 ease;
+}
+
+.btn-style:hover {
+    background-color: rgb(5, 93, 143);
+}

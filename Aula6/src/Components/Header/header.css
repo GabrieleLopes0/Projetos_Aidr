@@ -1,0 +1,22 @@
+header {
+    background-color: #04407c;
+    padding: 20px;
+    border-bottom: 2px solid #e9ecef;
+}
+
+.title-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 28px;
+    margin: 0;
+    color: #fff;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin: 5px 0;
+    color: rgb(195, 7, 67);
+}

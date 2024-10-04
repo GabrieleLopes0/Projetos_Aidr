@@ -1,8 +1,10 @@
-body {
+body 
+{
     background: rgb(138, 175, 146);
 }
 
-* {
+* 
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,8 +12,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container {
-  /* Largura do container */
+.container 
+{
   max-width: 375px;
   margin: 0 auto;
   border:2px solid rgb(226, 219, 219);
@@ -19,63 +21,61 @@ body {
   border-radius: 5px;
 }
 
-header {
-  /*Altura*/
+header 
+{
   height: 80px;
   background: rgb(1, 1, 62);
-  /*flebox*/
   display: flex;
   justify-content: center;
   align-items: center;
-  /*Borda*/
   border-bottom: 3px solid rgb(176, 80, 11);
-  /*Espaçamento entre os elementos*/
-  /* margin: 0px 0px 20px 0px; */
   margin-bottom: 20px;
 }
 
-header h1 {
+header h1 
+{
   color: #fff;
   font-size: 24px;
 }
 
-/* Formulário */
-.form-control {
+.form-control 
+{
   margin: 10px;
 }
 
-.form-control label {
+.form-control label 
+{
   font-weight: bold;
 }
 
-.form-control input[type="text"] {
+.form-control input[type="text"] 
+{
   border: 2px solid rgb(73, 42, 160);
   width: 93%;
   height: 25px;
   padding-left: 5px;
-  /*Retira a borda padrão do input*/
   outline: none;
   border-radius: 5px;
   color: rgb(152, 7, 7);
 }
 
-.form-button {
-  /* Flexbox*/
+.form-button 
+{
   display: flex;
   justify-content: center;
 }
 
-/* Botão */
-.form-button button {
+.form-button button 
+{
   background: rgb(1, 8, 62);
   border: 0;
   padding: 8px;
-  /* Cor de texto*/
   color: #fff;
   cursor: pointer;
 }
 
-.form-button button:hover {
+.form-button button:hover 
+{
   background: rgb(137, 5, 5);
 }
 

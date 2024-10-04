@@ -1,12 +1,15 @@
-const Header = () => {
-    const headerStyle = {
+const Header = () => 
+{
+    const headerStyle = 
+    {
         background: '#BEBEBE',
         padding: '20px',
         textAlign: 'center',
         borderBottom: '2px solid #696969'
     }
 
-    const titleStyle = {
+    const titleStyle = 
+    {
         margin: 0,
         fontSize: '24px',
         color: '#191970'

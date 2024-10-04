@@ -2,7 +2,8 @@ import Card from "./Components/Card";
 import Header from "./Components/Header";
 import "./app.css";
 
-function App() {
+function App() 
+{
 
   return (
     <>

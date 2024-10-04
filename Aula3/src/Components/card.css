@@ -1,11 +1,13 @@
-.card-container {
+.card-container 
+{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     padding: 20px;
 }
 
-.card {
+.card 
+{
     background: rgb(83, 104, 209);
     border: 1px solid #ccc;
     border-radius: 8px;
@@ -17,24 +19,28 @@
     box-shadow: 0 2px 4px rgb(128, 126, 126);
 }
 
-.card h2 {
+.card h2 
+{
     margin-top: 0;
     font-size: 20px;
     color: #fff;
     padding-bottom: 10px;
 }
 
-.card p {
+.card p 
+{
     font-size: 16px;
     color: #fff;
     padding-bottom: 10px;
 }
 
-.card a {
+.card a 
+{
     color: #840505;
     text-decoration: none;
 }
 
-.card a:hover {
+.card a:hover 
+{
     text-decoration: underline;
 }

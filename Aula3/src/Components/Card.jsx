@@ -1,7 +1,9 @@
 import "./card.css";
 
-const Card = () => {
-  const cardData = [
+const Card = () =>
+{
+  const cardData = 
+  [
     {
       title: "Car 1",
       textCard: "Este é meu primeiro Card",

@@ -1,13 +1,16 @@
-* {
+* 
+{
     margin: 0;
     padding: 0;
 }
 
-body {
+body 
+{
     background: rgb(215, 213, 213);
 }
 
-.container {
+.container 
+{
     max-width: 1000px;
     margin: 0 auto;
     background: #fff;

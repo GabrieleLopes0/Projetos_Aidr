@@ -1,0 +1,25 @@
+.container-box {
+    max-width: 280px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgb(164, 162, 162);
+    margin-top: 40px;
+}
+
+.container-box img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.container-box h1 {
+    font-size: 18px;
+    color: #333;
+    padding-top: 10px;
+}
+
+.container-box p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+}

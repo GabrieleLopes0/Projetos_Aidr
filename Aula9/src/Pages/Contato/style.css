@@ -1,0 +1,64 @@
+.container-contato {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .form-control label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .form-control button {
+    width: 100%;
+    padding: 10px;
+    background-color:#2e689a;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .form-control button:hover {
+    background-color: rgb(10, 32, 197);
+  }
+
+  .lista-contatos ul li {
+    border-bottom: 1px solid rgb(75, 74, 74);
+    padding: 10px;
+  }
+
+  .lista-contatos ul li:last-child {
+    border: 0;
+  }
+
+  .btn-deletar {
+    width: 100%;
+    height: 30px;
+    background: #e41212;
+    color: #fff;
+    border: 0;
+    margin: 10px;
+    cursor: pointer;
+  }
+
+  .btn-deletar:hover {
+    background: #960c0c;
+  }
